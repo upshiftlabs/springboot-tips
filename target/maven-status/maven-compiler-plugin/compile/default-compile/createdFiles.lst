@@ -1,0 +1,4 @@
+com\ela\configdemo\config\AppConfigProperties.class
+com\ela\configdemo\controller\ValueBasedController.class
+com\ela\configdemo\SpringbootTipsApplication.class
+com\ela\configdemo\controller\ConfigPropertiesController.class

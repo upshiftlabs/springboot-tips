@@ -1,4 +1,7 @@
-com\ela\configdemo\config\AppConfigProperties.class
-com\ela\configdemo\controller\ValueBasedController.class
-com\ela\configdemo\SpringbootTipsApplication.class
-com\ela\configdemo\controller\ConfigPropertiesController.class
+com\upshiftlabs\springboot\tips\controller\ValueBasedController.class
+com\upshiftlabs\springboot\tips\logging\LogFeatures.class
+com\upshiftlabs\springboot\tips\controller\ConfigPropertiesController.class
+com\upshiftlabs\springboot\tips\SpringbootTipsApplication.class
+com\upshiftlabs\springboot\tips\config\SecurityConfig.class
+com\upshiftlabs\springboot\tips\config\AppConfigProperties.class
+com\upshiftlabs\springboot\tips\logging\controller\LogController.class

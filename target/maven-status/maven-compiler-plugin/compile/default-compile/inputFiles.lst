@@ -1,4 +1,7 @@
-D:\Workstation\IntelliJ Workspace\springboot-config-tips\src\main\java\com\ela\configdemo\config\AppConfigProperties.java
-D:\Workstation\IntelliJ Workspace\springboot-config-tips\src\main\java\com\ela\configdemo\SpringbootTipsApplication.java
-D:\Workstation\IntelliJ Workspace\springboot-config-tips\src\main\java\com\ela\configdemo\controller\ValueBasedController.java
-D:\Workstation\IntelliJ Workspace\springboot-config-tips\src\main\java\com\ela\configdemo\controller\ConfigPropertiesController.java
+D:\Workstation\IntelliJ Workspace\springboot-tips\src\main\java\com\upshiftlabs\springboot\tips\controller\ValueBasedController.java
+D:\Workstation\IntelliJ Workspace\springboot-tips\src\main\java\com\upshiftlabs\springboot\tips\config\AppConfigProperties.java
+D:\Workstation\IntelliJ Workspace\springboot-tips\src\main\java\com\upshiftlabs\springboot\tips\logging\LogFeatures.java
+D:\Workstation\IntelliJ Workspace\springboot-tips\src\main\java\com\upshiftlabs\springboot\tips\controller\ConfigPropertiesController.java
+D:\Workstation\IntelliJ Workspace\springboot-tips\src\main\java\com\upshiftlabs\springboot\tips\SpringbootTipsApplication.java
+D:\Workstation\IntelliJ Workspace\springboot-tips\src\main\java\com\upshiftlabs\springboot\tips\logging\controller\LogController.java
+D:\Workstation\IntelliJ Workspace\springboot-tips\src\main\java\com\upshiftlabs\springboot\tips\config\SecurityConfig.java

@@ -5,3 +5,13 @@ app:
   name: ConfigDemoApp
   feature-enabled: true
   timeout: 5000
+
+togglz:
+  console:
+    enabled: true
+  features:
+    MASK_PII_LOGGING:
+      enabled: true
+
+logging:
+  mask-pii: true
